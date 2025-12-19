@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>bek.kg | Барбершоп</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+<header class="header">
+  <h1>BEK BARBER</h1>
+  <p>Стиль. Характер. Качество.</p>
+  <a href="https://wa.me/996999639909" class="btn" target="_blank">Записаться</a>
+</header>
+
+<section class="about">
+  <h2>Обо мне</h2>
+  <p>Профессиональный барбер. Мужские стрижки, борода, стиль. Город Ош.</p>
+</section>
+
+<section class="services">
+  <h2>Услуги</h2>
+  <div class="cards">
+    <div class="card">Мужская стрижка</div>
+    <div class="card">Борода</div>
+    <div class="card">Fade / Crop</div>
+  </div>
+</section>
+
+<section class="social">
+  <h2>Социальные сети</h2>
+  <a href="https://instagram.com/bekzodbek.barber" target="_blank">Instagram</a>
+</section>
+
+<footer>
+  <p>© 2025 bek.kg</p>
+</footer>
+
+<script src="script.js"></script>
+</body>
+</html>
